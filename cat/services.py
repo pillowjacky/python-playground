@@ -1,0 +1,2 @@
+def meowService():
+    return "Meowww!"
